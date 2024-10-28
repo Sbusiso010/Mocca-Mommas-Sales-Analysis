@@ -15,6 +15,9 @@
 
 The project analyzes a coffee shop's sales data, focusing on customer preferences, product perfomance, and inventory management. It highlights the top-selling coffee types, key customers, and popular sizes.
 
+DashBoard
+![Screenshot (26)](https://github.com/user-attachments/assets/15f9cbd8-10ad-4c64-bcdb-bc91f3f23351)
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the "coffeeOrdersData.xlsx" file, containing detailed information about each sale made by the coffee shop.
@@ -36,10 +39,22 @@ Sales Data: The primary dataset used for this analysis is the "coffeeOrdersData.
 ### Exploratory Data Analysis
 
 - What is the overall sales trend?
+  ![Screenshot (26)](https://github.com/user-attachments/assets/f620fd52-d31e-40f5-aa43-e81327f6dbc5)
+
 - Which is the top-selling coffee type?
+
+![Screenshot (27)](https://github.com/user-attachments/assets/2d601e55-f20f-4fef-b9fc-ca990e4015f7)
+
+  
 - Which is the top-selling roast type?
+![Screenshot (30)](https://github.com/user-attachments/assets/54117595-5fc6-442d-b955-37e468e5f6dd)
+
+  
 - Which is the popular coffee size?
+
+  ![Screenshot (29)](https://github.com/user-attachments/assets/0ccaeb93-819c-401f-8370-ee39173fe148)
 - Who are the top customers?
+![Screenshot (28)](https://github.com/user-attachments/assets/d649adfe-45ad-4c58-95c1-62237f9a77ea)
 
 
 ### Data Analysis
